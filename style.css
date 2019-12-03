@@ -1,0 +1,29 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: black;
+  font-family: arial;
+  }
+p {color: black;
+  font-family: arial;
+}
+header {
+  text-align:center;
+  font-size:20px;
+  color:black;
+  }
+  nav {
+    float: left;
+    width: 30%;
+    height: 3000px; /* only for demonstration, should be removed */
+    background: rgb(176,224,230);
+    padding: 20px;
+  }
+  article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+  height: 300px; /* only for demonstration, should be removed */
+}
